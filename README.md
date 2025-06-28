@@ -42,8 +42,8 @@ Excel/ Google Sheet: Macro VBA, PIVOT tables, VLOOKUP, etc.
 Notebooks: Jupyter, Databricks.
 
 **📈 Data Science / Statistics**  
-Python: Regression Modelling, Classification Modelling.
-R: Heuristic Modelling, Chi-square test (A/B Testing), Prediction Modelling.
+Python: Regression Modelling, Classification Modelling
+R: Heuristic Modelling, Chi-square test (A/B Testing), Prediction Modelling
 
 **🧰 Marketing & Communication**  
 HubSpot · MailChimp · Google Analytics · SEMrush · CRM · Canva
