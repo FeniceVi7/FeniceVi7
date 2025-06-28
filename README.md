@@ -54,8 +54,8 @@ Soon-to-be MBA graduate specializing in Marketing and Business Analytics with a 
 
 **📌 Administrator**  
 *English From Root – Vietnam (2023–Present)*  
-_ Coordinated with instructors and administrative staff to monitor key performance metrics and maintain consistent service delivery.
-_ Provided actionable insights through concise reporting, supporting leadership in making informed decisions within a resource-constrained environment.
+- Coordinated with instructors and administrative staff to monitor key performance metrics and maintain consistent service delivery.
+- Provided actionable insights through concise reporting, supporting leadership in making informed decisions within a resource-constrained environment.
 Tools: SEMRush, Google Analytics, MS Office (Excel, PowerPoint)
 
 **📌 Senior Production Specialist**  
