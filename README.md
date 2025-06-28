@@ -32,21 +32,21 @@ Soon-to-be MBA graduate specializing in Marketing and Business Analytics with a 
 ### 🛠 Skills Overview
 
 **📊 Data Visualization**  
-Tools: Power BI · Tableau · Plotly · Dash · Excel (Pivot Tables, VBA) · R
-Python: Matplotlib, Plotly, Dash
+- Tools: Power BI · Tableau · Plotly · Dash · Excel (Pivot Tables, VBA) · R
+- Python: Matplotlib, Plotly, Dash
 
 **📑 Data Analysis & Manipulation**  
-SQL: Google BigQuery, PostgreSQL.
-Python: Pandas, NumPy, Plotly, Matplotlib, Seaborn, Dash.
-Excel/ Google Sheet: Macro VBA, PIVOT tables, VLOOKUP, etc.
-Notebooks: Jupyter, Databricks.
+- SQL: Google BigQuery, PostgreSQL.
+- Python: Pandas, NumPy, Plotly, Matplotlib, Seaborn, Dash.
+- Excel/ Google Sheet: Macro VBA, PIVOT tables, VLOOKUP, etc.
+- Notebooks: Jupyter, Databricks.
 
 **📈 Data Science / Statistics**  
-Python: Regression Modelling, Classification Modelling
-R: Heuristic Modelling, Chi-square test (A/B Testing), Prediction Modelling
+- Python: Regression Modelling, Classification Modelling
+- R: Heuristic Modelling, Chi-square test (A/B Testing), Prediction Modelling
 
 **🧰 Marketing & Communication**  
-HubSpot · MailChimp · Google Analytics · SEMrush · CRM · Canva
+- HubSpot · MailChimp · Google Analytics · SEMrush · CRM · Canva
 
 ---
 
