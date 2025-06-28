@@ -14,62 +14,93 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <h1 align="center">Hi there 👋, I'm Quynh Nguyen</h1>
 <p align="center">
-  🎓 MBA in Marketing & Business Analytics | 💡 Data-Driven Storyteller | 💼 Replenishment Specialist at IKEA
+  🎓 MBA in Marketing & Business Analytics | 📊 Data Enthusiast | 💼 Former Production & Market Research Specialist
 </p>
 
 ---
 
 ### 👩‍💻 About Me
-Creative and data-savvy marketing professional passionate about digital storytelling, customer insights, and data visualization. Currently completing my MBA at **Aalto University**, focusing on combining marketing strategy with data analytics.
+Soon-to-be MBA graduate specializing in Marketing and Business Analytics with a strong foundation in **data analysis**, **SQL**, and **BI tools**. I translate business needs into technical solutions, design dashboards, and deliver insights that drive decisions. Currently based in Finland 🇫🇮 and open to exciting data opportunities.
+
+🔗 Portfolio: [https://minimius.notion.site/my-portfolio-data](https://minimius.notion.site/my-portfolio-data)
 
 ---
 
-### 🛠 Skills & Tools
+### 🛠 Skills Overview
 
-**Marketing & Digital Tools:**  
-HubSpot · MailChimp · Canva · SEMrush · Google Analytics
+**📊 Data Visualization**  
+Power BI · Tableau · Plotly · Dash · Excel (Pivot Tables, VBA)
 
-**Data & Analytics:**  
-Power BI · SQL (PostgreSQL, BigQuery) · Python (Pandas, NumPy, Seaborn) · Excel (Advanced) · Tableau
+**📑 Data Analysis & Manipulation**  
+Python (Pandas, NumPy, Seaborn, Matplotlib)  
+SQL (Google BigQuery, PostgreSQL)  
+Jupyter · Databricks · Google Sheets
 
-**Other:**  
-Project Coordination · Market Research · SPSS · Salesforce · WordPress
+**📈 Data Science / Statistics**  
+Regression & Classification Models (Python)  
+Heuristic Models, A/B Testing, Prediction (R)
 
----
-
-### 📁 Featured Projects
-
-- 📊 **Swappie Market Expansion Dashboard**  
-  [View on Notion](https://minimius.notion.site/my-portfolio-mark)
-
-- 🧠 **Marketing Simulation Insights**  
-  [View on Notion](https://minimius.notion.site/my-portfolio-mark)
-
-- 📈 **Customer Segmentation with RFM Model**  
-  Coming soon on GitHub!
+**🧰 Marketing & Communication**  
+HubSpot · MailChimp · Google Analytics · SEMrush · CRM · Canva
 
 ---
 
 ### 💼 Experience
 
-**IKEA Finland** – *Replenishment Supply Specialist* (2025–Present)  
-**Swappie Oy** – *Senior Production Specialist* (2021–2023)  
-**UUKU Consulting** – *Marketing Consultant (Intern)* (2019–2020)
+**📌 Administrator**  
+*English From Root – Vietnam (2023–Present)*  
+- Delivered insights from performance metrics  
+- Supported efficient service workflows using tools like Google Analytics & SEMrush  
+
+**📌 Senior Production Specialist**  
+*Swappie Oy – Helsinki, Finland (2021–2023)*  
+- Built operational dashboards with SQL & Metabase  
+- Tracked KPI trends and developed technical tracking systems  
+- Provided analytics for market expansion (Android project)  
+- Tools: Metabase, Power BI, Netsuite, Excel
+
+**📌 Restaurant Manager**  
+*Daruma Oy – Helsinki, Finland (2019–2021)*  
+- Led operations, scheduling & inventory  
+- Managed website and social campaigns  
+- Tools: Wix, Excel, Social Media
+
+**📌 Market Research Analyst (Intern)**  
+*UUKU Consulting Oy – Helsinki, Finland (2019–2020)*  
+- Researched ASEAN entry strategies  
+- Delivered Power BI dashboards and client reports  
+
+**📌 Research Assistant**  
+*VuoLearning – Helsinki, Finland (2017–2018)*  
+- Created B2B campaign content  
+- Collaborated cross-functionally on product strategy
 
 ---
 
 ### 🎓 Education
 
-🎓 **Aalto University School of Business** – MBA, Marketing & Analytics (2022–2025)  
-🎓 **Haaga-Helia University of Applied Sciences** – BBA, International Sales & Marketing (2017–2020)
+**Aalto University School of Business**  
+*Master of Business Administration (2022–2025)*  
+*Major: Marketing · Minor: Business Analytics*
+
+**Haaga-Helia University of Applied Sciences**  
+*BBA, International Sales and Marketing (2017–2020)*
 
 ---
 
-### 📫 Connect with Me
-📧 quynh.nguyen1478@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/quynhnguyen1478)  
-🌍 [Portfolio](https://minimius.notion.site/my-portfolio-mark)
+### 🌍 Languages
+- English – Fluent  
+- Swedish – Intermediate  
+- Finnish – Conversational  
+- Chinese – Intermediate  
 
 ---
+
+### 📫 Contact Me
+- 📧 quynh.nguyen1478@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/quynhnguyen1478)  
+- 🌐 [Portfolio](https://minimius.notion.site/my-portfolio-data)  
+
