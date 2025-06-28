@@ -32,16 +32,18 @@ Soon-to-be MBA graduate specializing in Marketing and Business Analytics with a 
 ### 🛠 Skills Overview
 
 **📊 Data Visualization**  
-Power BI · Tableau · Plotly · Dash · Excel (Pivot Tables, VBA)
+Tools: Power BI · Tableau · Plotly · Dash · Excel (Pivot Tables, VBA) · R
+Python: Matplotlib, Plotly, Dash
 
 **📑 Data Analysis & Manipulation**  
-Python (Pandas, NumPy, Seaborn, Matplotlib)  
-SQL (Google BigQuery, PostgreSQL)  
-Jupyter · Databricks · Google Sheets
+SQL: Google BigQuery, PostgreSQL.
+Python: Pandas, NumPy, Plotly, Matplotlib, Seaborn, Dash.
+Excel/ Google Sheet: Macro VBA, PIVOT tables, VLOOKUP, etc.
+Notebooks: Jupyter, Databricks.
 
 **📈 Data Science / Statistics**  
-Regression & Classification Models (Python)  
-Heuristic Models, A/B Testing, Prediction (R)
+Python: Regression Modelling, Classification Modelling.
+R: Heuristic Modelling, Chi-square test (A/B Testing), Prediction Modelling.
 
 **🧰 Marketing & Communication**  
 HubSpot · MailChimp · Google Analytics · SEMrush · CRM · Canva
@@ -52,8 +54,9 @@ HubSpot · MailChimp · Google Analytics · SEMrush · CRM · Canva
 
 **📌 Administrator**  
 *English From Root – Vietnam (2023–Present)*  
-- Delivered insights from performance metrics  
-- Supported efficient service workflows using tools like Google Analytics & SEMrush  
+_ Coordinated with instructors and administrative staff to monitor key performance metrics and maintain consistent service delivery.
+_ Provided actionable insights through concise reporting, supporting leadership in making informed decisions within a resource-constrained environment.
+Tools: SEMRush, Google Analytics, MS Office (Excel, PowerPoint)
 
 **📌 Senior Production Specialist**  
 *Swappie Oy – Helsinki, Finland (2021–2023)*  
