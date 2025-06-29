@@ -40,16 +40,4 @@ You can view or download my latest resume here:
 
 ---
 
-## 🌍 Languages
-- English – Fluent  
-- Swedish – Intermediate  
-- Finnish – Conversational  
-- Chinese – Intermediate  
-
----
-
-## 📫 Contact Me
-- 📧 quynh.nguyen1478@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/quynhnguyen1478)  
-- 🌐 [Portfolio](https://minimius.notion.site/my-portfolio-data)  
 
