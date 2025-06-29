@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### 👩‍💻 About Me
 Soon-to-be MBA graduate specializing in Marketing and Business Analytics with a strong foundation in **data analysis**, **SQL**, and **BI tools**. I translate business needs into technical solutions, design dashboards, and deliver insights that drive decisions. Currently based in Finland 🇫🇮 and open to exciting data opportunities.
 
-🔗 Portfolio: [https://minimius.notion.site/my-portfolio-data](https://minimius.notion.site/my-portfolio-data)
+🌐 Portfolio: [https://minimius.notion.site/my-portfolio-data](https://minimius.notion.site/my-portfolio-data)
 ### 📋 My CV
 
 You can view or download my latest resume here:  
