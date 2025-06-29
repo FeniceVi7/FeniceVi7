@@ -57,6 +57,7 @@ Soon-to-be MBA graduate specializing in Marketing and Business Analytics with a 
 - Coordinated with instructors and administrative staff to monitor key performance metrics and maintain consistent service delivery.
 - Provided actionable insights through concise reporting, supporting leadership in making informed decisions within a resource-constrained environment.
 &nbsp;
+
 **Tools:** SEMRush, Google Analytics, MS Office (Excel, PowerPoint)
 
 **📌 Senior Production Specialist**  
