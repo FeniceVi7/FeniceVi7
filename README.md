@@ -26,6 +26,11 @@ Here are some ideas to get you started:
 Soon-to-be MBA graduate specializing in Marketing and Business Analytics with a strong foundation in **data analysis**, **SQL**, and **BI tools**. I translate business needs into technical solutions, design dashboards, and deliver insights that drive decisions. Currently based in Finland 🇫🇮 and open to exciting data opportunities.
 
 🔗 Portfolio: [https://minimius.notion.site/my-portfolio-data](https://minimius.notion.site/my-portfolio-data)
+### 📄 My CV
+
+You can view or download my latest resume here:  
+🔗 [Click to View CV (opens in browser)](https://github.com/FeniceVi7/FeniceVi7/blob/main/Quynh%20Nguyen%20CV.pdf)  
+⬇️ [Click to Download CV (PDF)](https://github.com/FeniceVi7/FeniceVi7/raw/main/Quynh%20Nguyen%20CV.pdf)
 
 ---
 
