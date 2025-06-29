@@ -56,7 +56,6 @@ Soon-to-be MBA graduate specializing in Marketing and Business Analytics with a 
 *English From Root – Vietnam (2023–Present)*  
 - Coordinated with instructors and administrative staff to monitor key performance metrics and maintain consistent service delivery.
 - Provided actionable insights through concise reporting, supporting leadership in making informed decisions within a resource-constrained environment.
-&nbsp;
 
 **Tools:** SEMRush, Google Analytics, MS Office (Excel, PowerPoint)
 
@@ -80,26 +79,31 @@ Soon-to-be MBA graduate specializing in Marketing and Business Analytics with a 
 
 **Tools:** Excel, Social Media, Wix - web design and web analytics.
 
-**📌 Market Research Analyst (Intern)**  
+**📌 Market Research Analyst, Marketing Consultant (Intern)**  
 *UUKU Consulting Oy – Helsinki, Finland (2019–2020)*  
-- Researched ASEAN entry strategies  
-- Delivered Power BI dashboards and client reports  
+- Conducted market research and consulting for clients, offering actionable insights into pricing trends for entry strategies in ASEAN markets.  
+- Collaborated with clients to develop detailed reports and visualizations, bridging technical findings with strategic recommendations for business expansion.
 
-**📌 Research Assistant**  
+**Tools:** MS Office tools (Excel, PowerPoint, Reports), Data Visualization tools (PowerBI, Dashboards)
+
+**📌 Market Research and Lead Generation - Company Project**  
 *VuoLearning – Helsinki, Finland (2017–2018)*  
-- Created B2B campaign content  
-- Collaborated cross-functionally on product strategy
+- Communicated platform benefits and usage instructions effectively to potential users, contributing to increased trial sign-ups and overall platform adoption.
+- Conducted market research to align platform features with user needs and business goals, presenting findings to management and recommending actionable strategies for improvement.
+- Collaborated with cross-functional teams to create marketing content and promotional campaigns, ensuring consistent messaging and driving user engagement.
+
+**Tools:** MailChimp, HubSpot, CRM tools, Design tools (Adobe tools, video edit and visualization tools), MS Office, Analytical tools.
 
 ---
 
 ### 🎓 Education
 
 **Aalto University School of Business**  
-&nbsp;&nbsp;&nbsp;Master of Business Administration (2022–2025)  
-&nbsp;&nbsp;&nbsp;Major: Marketing · Minor: Business Analytics
+- Master of Business Administration (2022–2025)  
+- Major: Marketing · Minor: Business Analytics
 
 **Haaga-Helia University of Applied Sciences**  
-BBA, International Sales and Marketing (2017–2020)
+- Bachelor Degreee of Business Administration, International Sales and Marketing (2017–2020)
 
 ---
 
