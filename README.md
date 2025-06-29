@@ -56,21 +56,28 @@ Soon-to-be MBA graduate specializing in Marketing and Business Analytics with a 
 *English From Root – Vietnam (2023–Present)*  
 - Coordinated with instructors and administrative staff to monitor key performance metrics and maintain consistent service delivery.
 - Provided actionable insights through concise reporting, supporting leadership in making informed decisions within a resource-constrained environment.
-
+&nbsp;
 **Tools:** SEMRush, Google Analytics, MS Office (Excel, PowerPoint)
 
 **📌 Senior Production Specialist**  
 *Swappie Oy – Helsinki, Finland (2021–2023)*  
-- Built operational dashboards with SQL & Metabase  
-- Tracked KPI trends and developed technical tracking systems  
-- Provided analytics for market expansion (Android project)  
-- Tools: Metabase, Power BI, Netsuite, Excel
+- Designed and maintained interactive dashboards using SQL and Metabase to monitor team productivity and improve operational workflows.
+- Collaborated with repair, logistics, and quality control teams to resolve technical issues related to phone diagnostics and repair processes, ensuring data accuracy and efficiency.
+- Developed and maintained tracking systems for monitoring device processes and performance, contributing to improved KPI accuracy.
+- Delivered actionable insights and technical explanations to stakeholders, including operations managers and cross-departmental teams, to facilitate data-driven decision-making.
+- Evaluated product quality for purchasing orders and new partner onboarding, ensuring compliance with company standards.
+- Monitored and updated key operational metrics, such as daily ETA and device processing times, streamlining workflows and enhancing transparency for stakeholders.
+- **Android Project:** Analyzed market data and developed tracking systems for potential expansion into new regions, providing strategic recommendations for business growth.
+
+**Tools:** Metabase, Internal Cloud-Based Platforms, SQL, Oracle - Netsuite, Microsoft Office tools (Excel, PowerPoint), and Data Visualization tools (Power BI).
 
 **📌 Restaurant Manager**  
 *Daruma Oy – Helsinki, Finland (2019–2021)*  
-- Led operations, scheduling & inventory  
-- Managed website and social campaigns  
-- Tools: Wix, Excel, Social Media
+- Led cross-functional teams to ensure seamless operations, managing scheduling, inventory, and service delivery for optimal customer satisfaction.
+- Delivered promotional events and campaigns on social media, increasing customer engagement.
+- Managed the website, fostered relationships with restaurant partners, customers, and suppliers.
+
+**Tools:** Excel, Social Media, Wix - web design and web analytics.
 
 **📌 Market Research Analyst (Intern)**  
 *UUKU Consulting Oy – Helsinki, Finland (2019–2020)*  
