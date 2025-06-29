@@ -29,6 +29,7 @@ Soon-to-be MBA graduate specializing in Marketing and Business Analytics with a 
 
 🕵️‍♂️ **My Projects:** [https://github.com/FeniceVi7/minimius.github.io](https://github.com/FeniceVi7/minimius.github.io)
 
+---
 ## 📋 My CV
 
 You can view or download my latest resume here:
