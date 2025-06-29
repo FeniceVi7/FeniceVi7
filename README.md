@@ -56,7 +56,8 @@ Soon-to-be MBA graduate specializing in Marketing and Business Analytics with a 
 *English From Root – Vietnam (2023–Present)*  
 - Coordinated with instructors and administrative staff to monitor key performance metrics and maintain consistent service delivery.
 - Provided actionable insights through concise reporting, supporting leadership in making informed decisions within a resource-constrained environment.
-<br>**Tools:** SEMRush, Google Analytics, MS Office (Excel, PowerPoint)
+
+**Tools:** SEMRush, Google Analytics, MS Office (Excel, PowerPoint)
 
 **📌 Senior Production Specialist**  
 *Swappie Oy – Helsinki, Finland (2021–2023)*  
