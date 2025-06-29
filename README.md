@@ -86,11 +86,11 @@ Soon-to-be MBA graduate specializing in Marketing and Business Analytics with a 
 ### 🎓 Education
 
 **Aalto University School of Business**  
-*Master of Business Administration (2022–2025)*  
-*Major: Marketing · Minor: Business Analytics*
+&nbsp;&nbsp;&nbsp;Master of Business Administration (2022–2025)  
+&nbsp;&nbsp;&nbsp;Major: Marketing · Minor: Business Analytics
 
 **Haaga-Helia University of Applied Sciences**  
-*BBA, International Sales and Marketing (2017–2020)*
+BBA, International Sales and Marketing (2017–2020)
 
 ---
 
