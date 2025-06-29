@@ -28,7 +28,7 @@ Soon-to-be MBA graduate specializing in Marketing and Business Analytics with a 
 🌐 **Portfolio:** [https://minimius.notion.site/my-portfolio-data](https://minimius.notion.site/my-portfolio-data)
 
 🕵️‍♂️ **My Projects:** [https://github.com/FeniceVi7/minimius.github.io](https://github.com/FeniceVi7/minimius.github.io)
-### 📋 My CV
+## 📋 My CV
 
 You can view or download my latest resume here:  
 🔍 **View My CV:** [My CV](https://github.com/FeniceVi7/FeniceVi7/blob/main/Quynh%20Nguyen%20CV.pdf)  
@@ -37,7 +37,7 @@ You can view or download my latest resume here:
 
 ---
 
-### 🛠 Skills Overview
+## 🛠 Skills Overview
 
 **📊 Data Visualization**  
 - Tools: Power BI · Tableau · Plotly · Dash · Excel (Pivot Tables, VBA) · R
@@ -58,7 +58,7 @@ You can view or download my latest resume here:
 
 ---
 
-### 💼 Experience
+## 💼 Experience
 
 **📌 Administrator**  
 *English From Root – Vietnam (2023–Present)*  
@@ -104,7 +104,7 @@ You can view or download my latest resume here:
 
 ---
 
-### 🎓 Education
+## 🎓 Education
 
 **Aalto University School of Business**  
 - Master of Business Administration (2022–2025)  
@@ -115,7 +115,7 @@ You can view or download my latest resume here:
 
 ---
 
-### 🌍 Languages
+## 🌍 Languages
 - English – Fluent  
 - Swedish – Intermediate  
 - Finnish – Conversational  
@@ -123,7 +123,7 @@ You can view or download my latest resume here:
 
 ---
 
-### 📫 Contact Me
+## 📫 Contact Me
 - 📧 quynh.nguyen1478@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/quynhnguyen1478)  
 - 🌐 [Portfolio](https://minimius.notion.site/my-portfolio-data)  
