@@ -32,6 +32,7 @@ Soon-to-be MBA graduate specializing in Marketing and Business Analytics with a 
 
 You can view or download my latest resume here:  
 🔍 **View My CV:** [My CV](https://github.com/FeniceVi7/FeniceVi7/blob/main/Quynh%20Nguyen%20CV.pdf)  
+
 💾 **Download CV (PDF):** [Download](https://github.com/FeniceVi7/FeniceVi7/raw/main/Quynh%20Nguyen%20CV.pdf)
 
 
