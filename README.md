@@ -34,7 +34,7 @@ You can view or download my latest resume here:
 
 ### 📋 My Projects
 
-🕵️‍♂️ View My Projects: [(https://github.com/FeniceVi7/minimius.github.io)]
+🕵️‍♂️ View My Projects: [https://github.com/FeniceVi7/minimius.github.io](https://github.com/FeniceVi7/minimius.github.io)
 ---
 
 ### 🛠 Skills Overview
