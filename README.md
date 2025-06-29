@@ -33,7 +33,8 @@ You can view or download my latest resume here:
 💾 [Download CV (PDF)](https://github.com/FeniceVi7/FeniceVi7/raw/main/Quynh%20Nguyen%20CV.pdf)
 
 ### 📋 My Projects
-🕵️‍♂️ [View My Projects](https://github.com/FeniceVi7/minimius.github.io)
+
+🕵️‍♂️ View My Projects: [(https://github.com/FeniceVi7/minimius.github.io)]
 ---
 
 ### 🛠 Skills Overview
