@@ -27,7 +27,7 @@ Soon-to-be MBA graduate specializing in Marketing and Business Analytics with a 
 
 🌐 **Portfolio:** [https://minimius.notion.site/my-portfolio-data](https://minimius.notion.site/my-portfolio-data)
 
-🕵️‍♂️ **My Projects:** [(https://fenicevi7.github.io/](https://fenicevi7.github.io/)
+🕵️‍♂️ **My Projects:** [https://fenicevi7.github.io/](https://fenicevi7.github.io/)
 
 ---
 ## 📋 My CV
